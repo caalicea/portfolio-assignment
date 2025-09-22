@@ -1,7 +1,7 @@
 # My Portfolio
 
 Welcome to my professional portfolio!  
-**Name:** Christian Alicea 
+**Name:** Christian Alicea
 **Contact:** caalicea@iastate.edu
 
 ## Navigation
